@@ -3,7 +3,10 @@ locale: "en-GB"
 title: downthewire.co.uk
 email: website@downthewire.co.uk
 description: >-
-  Software engineer based in Edinburgh, UK.
+  Andrew Thompson — Staff Software Engineer in Edinburgh specialising in
+  distributed systems and data platforms (Go, Python, AWS).
+
+og_image: /assets/images/bio-photo.jpg
 github_username: thompsy
 minimal_mistakes_skin: default
 search: true

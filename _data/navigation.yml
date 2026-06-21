@@ -1,4 +1,6 @@
 main:
+  - title: "Projects"
+    url: /projects/
   - title: "Thesis"
     url: /projects/jLTE-Simulator/
   # - title: "Posts"
